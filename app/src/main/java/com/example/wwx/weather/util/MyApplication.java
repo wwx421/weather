@@ -1,4 +1,4 @@
-package com.example.wwx.weather;
+package com.example.wwx.weather.util;
 
 import android.app.Application;
 import android.content.Context;

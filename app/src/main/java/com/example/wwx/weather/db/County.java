@@ -11,6 +11,6 @@ public class County extends LitePalSupport {
 
     public int id;
     public String countyName;
-    private String weatherId;
-    private int cityId;
+    public String weatherId;
+    public int cityId;
 }
